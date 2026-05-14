@@ -1,4 +1,4 @@
-json:
+on:
   push:
     branches:
       - main
